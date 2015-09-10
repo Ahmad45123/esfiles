@@ -1,0 +1,11 @@
+<xml>
+	<plugin>
+		<name>Streamer Plugin</name>
+		<include>Streamer Include</include>
+		<desc>
+		The streamer plugin.
+		</desc>
+		<version>2.2.0</version>
+		<download>http://johnymac.github.io/esfiles/dnldFiles/plugins/streamer.zip</download>
+	</plugin>
+</xml>
