@@ -1,0 +1,10 @@
+<xml>
+	<plugin>
+		<name>Test Plugin</name>
+		<desc>
+		A plugin for picking bla bla.
+		Haha.
+		</desc>
+		<sha1>b4d770dbbac0d9d8220c8eeb7fa7b54df4de2318</sha1>
+	</plugin>
+</xml>
