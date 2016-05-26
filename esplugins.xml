@@ -1,11 +1,3 @@
 <xml>
-	<plugin>
-		<name>Test Plugin</name>
-		<desc>
-		A plugin for picking bla bla.
-		Haha.
-		</desc>
-		<download>http://johnymac.github.io/esfiles/dnldFiles/esplugins/TestPlugin.dll</download>
-		<hash>tNdw27rA2dgiDI7rf6e1TfTeIxg=</hash>
-	</plugin>
+
 </xml>

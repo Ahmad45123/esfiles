@@ -1,10 +1,10 @@
 <serverPackages>
 	<samp>
-		<name>0.3.7-R1</name>
-		<download>http://johnymac.github.io/esfiles/dnldFiles/server/0.3.7-R1.zip</download>
+		<name>0.3.7-R2-1</name>
+		<download>http://files.sa-mp.com/samp037_svr_R2-1-1_win32.zip</download>
 	</samp>
 	<samp>
-		<name>0.3z-R1</name>
-		<download>http://johnymac.github.io/esfiles/dnldFiles/server/0.3z-R1.zip</download>
+		<name>0.3z-R4</name>
+		<download>http://files.sa-mp.com/samp03z_svr_R4_win32.zip</download>
 	</samp>
 </serverPackages>
