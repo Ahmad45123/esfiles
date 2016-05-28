@@ -61,31 +61,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lMBV9UxEMcBxrpwjbPUCiAzpo7E=</dsig:DigestValue>
+        <dsig:DigestValue>WGpE2yxwLOHPnUJI7jyY8CVyKk0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExtremeParser.dll" size="35328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExtremeParser.dll" size="35840">
       <assemblyIdentity name="ExtremeParser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bJg8HFuzmk64+U8+AnOKKiROL6Y=</dsig:DigestValue>
+        <dsig:DigestValue>19dcVHVsQ5GUg9BgEPphp/sj2jw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExtremeStudio.exe" size="1524736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExtremeStudio.exe" size="1522176">
       <assemblyIdentity name="ExtremeStudio" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>K/dXuJeykZi94GBwv+sIXBrSMyw=</dsig:DigestValue>
+        <dsig:DigestValue>Gtse5100uFMwf3mdmcGWD3jrnLI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
