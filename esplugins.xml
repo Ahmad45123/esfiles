@@ -1,3 +1,10 @@
 <xml>
-
+	<plugin>
+		<name>Color Picker</name>
+		<desc>
+		A plugin for picking colors, converts them to HEX and then inputs it to the current editor.
+		</desc>
+		<download>http://johnymac.github.io/esfiles/dnldFiles/esplugins/ColorPicker.dll</download>
+		<hash>tNdw27rA2dgiDI7rf6e1TfTeIxg=</hash>
+	</plugin>
 </xml>
