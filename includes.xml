@@ -6,6 +6,23 @@
 		An include that makes you able to stream objects, vehicles, actors.
 		</desc>
 		<version>2.9.2</version>
-		<download>https://github.com/B3LlAT0R/samp/raw/master/include/streamer.zip</download>
+		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/streamer.zip?raw=true</download>
+	</include>
+        <include>
+		<name>Sscanf Include</name>
+		<plugin>Sscanf Plugin</plugin>
+		<desc>
+		An include that makes you put params in you script.
+		</desc>
+		<version>2.8.2</version>
+		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/sscanf2.zip?raw=true</download>
+	</include>
+        <include>
+		<name>Zcmd Include</name>
+		<desc>
+		An include that makes fast command use: CMD:, command:.
+		</desc>
+		<version>0.3.1</version>
+		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/zcmd.zip?raw=true</download>
 	</include>
 </xml>
