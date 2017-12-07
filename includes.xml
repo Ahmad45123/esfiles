@@ -17,13 +17,5 @@
 		<version>2.8.2</version>
 		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/sscanf2.zip?raw=true</download>
 	</include>
-        <include>
-		<name>Zcmd Include</name>
-                <plugin>Zcmd Plugin</plugin>
-		<desc>
-		An include that makes fast command use: CMD:, command:.
-		</desc>
-		<version>0.3.1</version>
-		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/zcmd.zip?raw=true</download>
-	</include>
+      
 </xml>
