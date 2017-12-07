@@ -19,6 +19,7 @@
 	</include>
         <include>
 		<name>Zcmd Include</name>
+                <plugin>Zcmd Plugin</plugin>
 		<desc>
 		An include that makes fast command use: CMD:, command:.
 		</desc>
