@@ -1,6 +1,6 @@
 <xml>
 	<plugin>
-		<name>streamer Plugin</name>
+		<name>Streamer Plugin</name>
 		<include>streamer Include</include>
 		<desc>
 		The streamer plugin Window and Linux.
@@ -9,8 +9,8 @@
 		<download>https://github.com/Ahmad45123/esfiles/raw/gh-pages/dnldFiles/plugins/streamer_linux_y_window.zip</download>
 	</plugin>
         <plugin>
-		<name>sscanf Plugin</name>
-		<include>sscanf Include</include>
+		<name>Sscanf Plugin</name>
+		<include>Sscanf Include</include>
 		<desc>
 		The sscanf plugin Window and Linux.
 		</desc>
