@@ -1,6 +1,6 @@
 <xml>
 	<include>
-		<name>streamer Include</name>
+		<name>Streamer Include</name>
 		<plugin>streamer Plugin</plugin>
 		<desc>
 		An include that makes you able to stream objects, vehicles, actors.
@@ -9,7 +9,7 @@
 		<download>https://github.com/Ahmad45123/esfiles/raw/gh-pages/dnldFiles/includes/streamer.zip</download>
 	</include>
         <include>
-		<name>sscanf Include</name>
+		<name>Sscanf Include</name>
 		<plugin>sscanf Plugin</plugin>
 		<desc>
 		An include that makes you put params in you script.
@@ -18,7 +18,7 @@
 		<download>https://github.com/Ahmad45123/esfiles/raw/gh-pages/dnldFiles/includes/sscanf2.zip</download>
 	</include>
         <include>
-		<name>zcmd Include</name>
+		<name>Zcmd Include</name>
                 <plugin>zcmd Plugin</plugin>
 		<desc>
 		An include that makes fast command use: CMD:, command:.
