@@ -6,7 +6,7 @@
 		An include that makes you able to stream objects, vehicles, actors.
 		</desc>
 		<version>2.9.2</version>
-		<download>https://github.com/Ahmad45123/esfiles/blob/gh-pages/dnldFiles/includes/streamer.zip?raw=true</download>
+		<download>https://github.com/Ahmad45123/esfiles/raw/gh-pages/dnldFiles/includes/streamer.zip</download>
 	</include>
         <include>
 		<name>sscanf Include</name>
