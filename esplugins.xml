@@ -5,6 +5,6 @@
 		     A plugin for picking colors, converts them to HEX and then inputs it to the current editor.
 		</desc>
 		<download>https://github.com/Ahmad45123/esfiles/raw/gh-pages/dnldFiles/esplugins/ColorPicker.dll</download>
-                <hash>n5ZUl8TpJdMddAAYQjliTclyxDc=</hash>
+                <sha1>n5ZUl8TpJdMddAAYQjliTclyxDc=</sha1>
 	</plugin>
 </xml>
